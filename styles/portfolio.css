@@ -147,10 +147,25 @@ padding: 30px 150px;
     font-size: 25px;
 
     font-weight: 700;
+    margin-bottom: 10px;
+}
+.resume-item-title{
+    margin-bottom: 20px;
+    margin-top: 0;
 }
 .resume-institute,.resume-item-description{
     color: #757575;
 }
 .resume-container hr{
     margin: 30px;
+}
+.download-cv{
+  text-align: center;
+  margin-top: 50px;
+}
+footer{
+    display: flex;
+    background: #FFF8F3;
+    margin-top: 100px;
+    padding: 130px 200px;
 }
